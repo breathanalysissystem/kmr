@@ -1,0 +1,539 @@
+Sno,GasLevel,Gas,Status,
+,16.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,16.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,16.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.1,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.2,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.3,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.4,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.5,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.6,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,17.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.1,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.2,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.3,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.4,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.5,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.6,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,18.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.1,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.2,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.3,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.4,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.5,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.6,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,19.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.1,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.2,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.3,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.4,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.5,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.6,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,20.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.1,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.2,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.3,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.4,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.5,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.6,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,21.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.1,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.2,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.3,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.4,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.5,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.6,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,22.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.1,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.2,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.3,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.4,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.5,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.6,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.7,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.8,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,23.9,Carbonmonoxide,"Identification as a smoker,Chronic ObstructivePulmonaryDisorder(COPD)",
+,11.3,Carbonmonoxide,SevereSepsis,
+,5.6,Carbonmonoxide,AsthmaticPatients,
+,4.4,Carbonmonoxide,Haemolysis,
+,19.2,NitricOxide,Asthmatic,Diagnosis
+,19.3,NitricOxide,Asthmatic,Diagnosis
+,19.4,NitricOxide,Asthmatic,Diagnosis
+,19.5,NitricOxide,Asthmatic,Diagnosis
+,19.6,NitricOxide,Asthmatic,Diagnosis
+,19.7,NitricOxide,Asthmatic,Diagnosis
+,19.8,NitricOxide,Asthmatic,Diagnosis
+,19.9,NitricOxide,Asthmatic,Diagnosis
+,20,NitricOxide,Asthmatic,Diagnosis
+,20.1,NitricOxide,Asthmatic,Diagnosis
+,20.2,NitricOxide,Asthmatic,Diagnosis
+,20.3,NitricOxide,Asthmatic,Diagnosis
+,20.4,NitricOxide,Asthmatic,Diagnosis
+,20.5,NitricOxide,Asthmatic,Diagnosis
+,20.6,NitricOxide,Asthmatic,Diagnosis
+,20.7,NitricOxide,Asthmatic,Diagnosis
+,20.8,NitricOxide,Asthmatic,Diagnosis
+,20.9,NitricOxide,Asthmatic,Diagnosis
+,21,NitricOxide,Asthmatic,Diagnosis
+,21.1,NitricOxide,Asthmatic,Diagnosis
+,21.2,NitricOxide,Asthmatic,Diagnosis
+,21.3,NitricOxide,Asthmatic,Diagnosis
+,21.4,NitricOxide,Asthmatic,Diagnosis
+,21.5,NitricOxide,Asthmatic,Diagnosis
+,21.6,NitricOxide,Asthmatic,Diagnosis
+,21.7,NitricOxide,Asthmatic,Diagnosis
+,21.8,NitricOxide,Asthmatic,Diagnosis
+,21.9,NitricOxide,Asthmatic,Diagnosis
+,22,NitricOxide,Asthmatic,Diagnosis
+,22.1,NitricOxide,Asthmatic,Diagnosis
+,22.2,NitricOxide,Asthmatic,Diagnosis
+,22.3,NitricOxide,Asthmatic,Diagnosis
+,22.4,NitricOxide,Asthmatic,Diagnosis
+,22.5,NitricOxide,Asthmatic,Diagnosis
+,22.6,NitricOxide,Asthmatic,Diagnosis
+,22.7,NitricOxide,Asthmatic,Diagnosis
+,22.8,NitricOxide,Asthmatic,Diagnosis
+,22.9,NitricOxide,Asthmatic,Diagnosis
+,23,NitricOxide,Asthmatic,Diagnosis
+,23.1,NitricOxide,Asthmatic,Diagnosis
+,23.2,NitricOxide,Asthmatic,Diagnosis
+,23.3,NitricOxide,Asthmatic,Diagnosis
+,23.4,NitricOxide,Asthmatic,Diagnosis
+,23.5,NitricOxide,Asthmatic,Diagnosis
+,23.6,NitricOxide,Asthmatic,Diagnosis
+,23.7,NitricOxide,Asthmatic,Diagnosis
+,23.8,NitricOxide,Asthmatic,Diagnosis
+,23.9,NitricOxide,Asthmatic,Diagnosis
+,24,NitricOxide,Asthmatic,Diagnosis
+,24.1,NitricOxide,Asthmatic,Diagnosis
+,24.2,NitricOxide,Asthmatic,Diagnosis
+,24.3,NitricOxide,Asthmatic,Diagnosis
+,24.4,NitricOxide,Asthmatic,Diagnosis
+,24.5,NitricOxide,Asthmatic,Diagnosis
+,24.6,NitricOxide,Asthmatic,Diagnosis
+,24.7,NitricOxide,Asthmatic,Diagnosis
+,24.8,NitricOxide,Asthmatic,Diagnosis
+,24.9,NitricOxide,Asthmatic,Diagnosis
+,25,NitricOxide,Asthmatic,Diagnosis
+,25.1,NitricOxide,Asthmatic,Diagnosis
+,25.2,NitricOxide,Asthmatic,Diagnosis
+,25.3,NitricOxide,Asthmatic,Diagnosis
+,25.4,NitricOxide,Asthmatic,Diagnosis
+,25.5,NitricOxide,Asthmatic,Diagnosis
+,25.6,NitricOxide,Asthmatic,Diagnosis
+,25.7,NitricOxide,Asthmatic,Diagnosis
+,25.8,NitricOxide,Asthmatic,Diagnosis
+,25.9,NitricOxide,Asthmatic,Diagnosis
+,26,NitricOxide,Asthmatic,Diagnosis
+,26.1,NitricOxide,Asthmatic,Diagnosis
+,26.2,NitricOxide,Asthmatic,Diagnosis
+,26.3,NitricOxide,Asthmatic,Diagnosis
+,26.4,NitricOxide,Asthmatic,Diagnosis
+,26.5,NitricOxide,Asthmatic,Diagnosis
+,26.7,NitricOxide,Asthmatic,Diagnosis
+,26.8,NitricOxide,Asthmatic,Diagnosis
+,26.9,NitricOxide,Asthmatic,Diagnosis
+,27,NitricOxide,Asthmatic,Diagnosis
+,27.1,NitricOxide,Asthmatic,Diagnosis
+,27.2,NitricOxide,Asthmatic,Diagnosis
+,27.3,NitricOxide,Asthmatic,Diagnosis
+,27.4,NitricOxide,Asthmatic,Diagnosis
+,27.5,NitricOxide,Asthmatic,Diagnosis
+,27.6,NitricOxide,Asthmatic,Diagnosis
+,27.7,NitricOxide,Asthmatic,Diagnosis
+,27.8,NitricOxide,Asthmatic,Diagnosis
+,27.9,NitricOxide,Asthmatic,Diagnosis
+,28,NitricOxide,Asthmatic,Diagnosis
+,28.1,NitricOxide,Asthmatic,Diagnosis
+,28.2,NitricOxide,Asthmatic,Diagnosis
+,28.3,NitricOxide,Asthmatic,Diagnosis
+,28.4,NitricOxide,Asthmatic,Diagnosis
+,28.5,NitricOxide,Asthmatic,Diagnosis
+,28.6,NitricOxide,Asthmatic,Diagnosis
+,28.7,NitricOxide,Asthmatic,Diagnosis
+,28.8,NitricOxide,Asthmatic,Diagnosis
+,28.9,NitricOxide,Asthmatic,Diagnosis
+,29,NitricOxide,Asthmatic,Diagnosis
+,29.1,NitricOxide,Asthmatic,Diagnosis
+,29.2,NitricOxide,Asthmatic,Diagnosis
+,29.3,NitricOxide,Asthmatic,Diagnosis
+,29.4,NitricOxide,Asthmatic,Diagnosis
+,29.5,NitricOxide,Asthmatic,Diagnosis
+,29.6,NitricOxide,Asthmatic,Diagnosis
+,29.7,NitricOxide,Asthmatic,Diagnosis
+,29.8,NitricOxide,Asthmatic,Diagnosis
+,29.9,NitricOxide,Asthmatic,Diagnosis
+,30,NitricOxide,Asthmatic,Diagnosis
+,16.3,NitricOxide,SeasonalRhitis,
+,12.9,NitricOxide,ExperimentalInfluenza,
+,2.3,NitricOxide,CysticFibrhosis,
+,2.4,NitricOxide,CysticFibrhosis,
+,2.5,NitricOxide,CysticFibrhosis,
+,2.6,NitricOxide,CysticFibrhosis,
+,2.7,NitricOxide,CysticFibrhosis,
+,2.8,NitricOxide,CysticFibrhosis,
+,2.9,NitricOxide,CysticFibrhosis,
+,3,NitricOxide,CysticFibrhosis,
+,3.1,NitricOxide,CysticFibrhosis,
+,3.2,NitricOxide,CysticFibrhosis,
+,3.3,NitricOxide,CysticFibrhosis,
+,3.4,NitricOxide,CysticFibrhosis,
+,3.5,NitricOxide,CysticFibrhosis,
+,3.6,NitricOxide,CysticFibrhosis,
+,3.7,NitricOxide,CysticFibrhosis,
+,3.8,NitricOxide,CysticFibrhosis,
+,3.9,NitricOxide,CysticFibrhosis,
+,4,NitricOxide,CysticFibrhosis,
+,4.1,NitricOxide,CysticFibrhosis,
+,4.2,NitricOxide,CysticFibrhosis,
+,4.3,NitricOxide,CysticFibrhosis,
+,4.4,NitricOxide,CysticFibrhosis,
+,4.5,NitricOxide,CysticFibrhosis,
+,4.6,NitricOxide,CysticFibrhosis,
+,4.7,NitricOxide,CysticFibrhosis,
+,16,Hydrogen,GastroIntestinalDisease,
+,16.1,Hydrogen,GastroIntestinalDisease,
+,16.2,Hydrogen,GastroIntestinalDisease,
+,16.3,Hydrogen,GastroIntestinalDisease,
+,16.4,Hydrogen,GastroIntestinalDisease,
+,16.5,Hydrogen,GastroIntestinalDisease,
+,16.6,Hydrogen,GastroIntestinalDisease,
+,16.7,Hydrogen,GastroIntestinalDisease,
+,16.8,Hydrogen,GastroIntestinalDisease,
+,16.9,Hydrogen,GastroIntestinalDisease,
+,17,Hydrogen,GastroIntestinalDisease,
+,17.1,Hydrogen,GastroIntestinalDisease,
+,17.2,Hydrogen,GastroIntestinalDisease,
+,17.3,Hydrogen,GastroIntestinalDisease,
+,17.4,Hydrogen,GastroIntestinalDisease,
+,17.5,Hydrogen,GastroIntestinalDisease,
+,17.6,Hydrogen,GastroIntestinalDisease,
+,17.7,Hydrogen,GastroIntestinalDisease,
+,17.8,Hydrogen,GastroIntestinalDisease,
+,17.9,Hydrogen,GastroIntestinalDisease,
+,18,Hydrogen,GastroIntestinalDisease,
+,18.1,Hydrogen,GastroIntestinalDisease,
+,18.2,Hydrogen,GastroIntestinalDisease,
+,18.3,Hydrogen,GastroIntestinalDisease,
+,18.4,Hydrogen,GastroIntestinalDisease,
+,18.5,Hydrogen,GastroIntestinalDisease,
+,18.6,Hydrogen,GastroIntestinalDisease,
+,18.7,Hydrogen,GastroIntestinalDisease,
+,18.8,Hydrogen,GastroIntestinalDisease,
+,18.9,Hydrogen,GastroIntestinalDisease,
+,19,Hydrogen,GastroIntestinalDisease,
+,19.1,Hydrogen,GastroIntestinalDisease,
+,19.2,Hydrogen,GastroIntestinalDisease,
+,19.3,Hydrogen,GastroIntestinalDisease,
+,19.4,Hydrogen,GastroIntestinalDisease,
+,19.5,Hydrogen,GastroIntestinalDisease,
+,19.6,Hydrogen,GastroIntestinalDisease,
+,19.7,Hydrogen,GastroIntestinalDisease,
+,19.8,Hydrogen,GastroIntestinalDisease,
+,19.9,Hydrogen,GastroIntestinalDisease,
+,20,Hydrogen,GastroIntestinalDisease,
+,16.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,16.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,17.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,18.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,19.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,20.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,21.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,22.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,23.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,24.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,25.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,26.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,27.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,28.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.1,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.2,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.3,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.4,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.5,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.6,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.7,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.8,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,29.9,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,30,Methane,"Diverticulitis, constipation,irritablebowelsyndrome",
+,2,Ammonia,KidneyFailure,
+,2.1,Ammonia,KidneyFailure,
+,2.2,Ammonia,KidneyFailure,
+,2.3,Ammonia,KidneyFailure,
+,2.4,Ammonia,KidneyFailure,
+,2.5,Ammonia,KidneyFailure,
+,2.6,Ammonia,KidneyFailure,
+,2.7,Ammonia,KidneyFailure,
+,2.8,Ammonia,KidneyFailure,
+,2.9,Ammonia,KidneyFailure,
+,3,Ammonia,KidneyFailure,
+,3.2,Ammonia,KidneyFailure,
+,3.3,Ammonia,KidneyFailure,
+,3.4,Ammonia,KidneyFailure,
+,3.5,Ammonia,KidneyFailure,
+,3.6,Ammonia,KidneyFailure,
+,3.7,Ammonia,KidneyFailure,
+,3.8,Ammonia,KidneyFailure,
+,3.9,Ammonia,KidneyFailure,
+,4,Ammonia,KidneyFailure,
+,4.1,Ammonia,KidneyFailure,
+,4.2,Ammonia,KidneyFailure,
+,4.3,Ammonia,KidneyFailure,
+,4.4,Ammonia,KidneyFailure,
+,4.5,Ammonia,KidneyFailure,
+,4.6,Ammonia,KidneyFailure,
+,4.7,Ammonia,KidneyFailure,
+,4.8,Ammonia,KidneyFailure,
+,4.9,Ammonia,KidneyFailure,
+,0.5,Acetone,Ketoacidoticdiabetes,
+,1.6,HydrogenSulphide,Respiratory,diseases
+,81.5,Isoperene,Cancer,
+,21,Ethane,ObstructiveSleepApnea,
+,22,Ethane,ObstructiveSleepApnea,
+,23,Ethane,ObstructiveSleepApnea,
+,24,Ethane,ObstructiveSleepApnea,
+,25,Ethane,ObstructiveSleepApnea,
+,26,Ethane,ObstructiveSleepApnea,
+,27,Ethane,ObstructiveSleepApnea,
+,28,Ethane,ObstructiveSleepApnea,
+,29,Ethane,ObstructiveSleepApnea,
+,30,Ethane,ObstructiveSleepApnea,
+,31,Ethane,ObstructiveSleepApnea,
+,32,Ethane,ObstructiveSleepApnea,
+,33,Ethane,ObstructiveSleepApnea,
+,34,Ethane,ObstructiveSleepApnea,
+,35,Ethane,ObstructiveSleepApnea,
+,36,Ethane,ObstructiveSleepApnea,
+,37,Ethane,ObstructiveSleepApnea,
+,38,Ethane,ObstructiveSleepApnea,
+,39,Ethane,ObstructiveSleepApnea,
+,40,Ethane,ObstructiveSleepApnea,
+,41,Ethane,ObstructiveSleepApnea,
+,42,Ethane,ObstructiveSleepApnea,
+,43,Ethane,ObstructiveSleepApnea,
+,44,Ethane,ObstructiveSleepApnea,
+,45,Ethane,ObstructiveSleepApnea,
+,46,Ethane,ObstructiveSleepApnea,
+,47,Ethane,ObstructiveSleepApnea,
+,48,Ethane,ObstructiveSleepApnea,
+,49,Ethane,ObstructiveSleepApnea,
+,50,Ethane,ObstructiveSleepApnea,
+,21,Pentane,IschemicHeartDisease,
+,22,Pentane,IschemicHeartDisease,
+,23,Pentane,IschemicHeartDisease,
+,24,Pentane,IschemicHeartDisease,
+,25,Pentane,IschemicHeartDisease,
+,26,Pentane,IschemicHeartDisease,
+,27,Pentane,IschemicHeartDisease,
+,28,Pentane,IschemicHeartDisease,
+,29,Pentane,IschemicHeartDisease,
+,30,Pentane,IschemicHeartDisease,
+,31,Pentane,IschemicHeartDisease,
+,32,Pentane,IschemicHeartDisease,
+,33,Pentane,IschemicHeartDisease,
+,34,Pentane,IschemicHeartDisease,
+,35,Pentane,IschemicHeartDisease,
+,36,Pentane,IschemicHeartDisease,
+,37,Pentane,IschemicHeartDisease,
+,38,Pentane,IschemicHeartDisease,
+,39,Pentane,IschemicHeartDisease,
+,40,Pentane,IschemicHeartDisease,
+,41,Pentane,IschemicHeartDisease,
+,42,Pentane,IschemicHeartDisease,
+,43,Pentane,IschemicHeartDisease,
+,44,Pentane,IschemicHeartDisease,
+,45,Pentane,IschemicHeartDisease,
+,46,Pentane,IschemicHeartDisease,
+,47,Pentane,IschemicHeartDisease,
+,48,Pentane,IschemicHeartDisease,
+,49,Pentane,IschemicHeartDisease,
+,50,Pentane,IschemicHeartDisease,
+,51,Pentane,IschemicHeartDisease,
+,52,Pentane,IschemicHeartDisease,
+,53,Pentane,IschemicHeartDisease,
+,54,Pentane,IschemicHeartDisease,
+,55,Pentane,IschemicHeartDisease,
+,56,Pentane,IschemicHeartDisease,
+,57,Pentane,IschemicHeartDisease,
+,58,Pentane,IschemicHeartDisease,
+,59,Pentane,IschemicHeartDisease,
+,60,Pentane,IschemicHeartDisease,
+,61,Pentane,IschemicHeartDisease,
+,62,Pentane,IschemicHeartDisease,
+,63,Pentane,IschemicHeartDisease,
+,64,Pentane,IschemicHeartDisease,
+,65,Pentane,IschemicHeartDisease,
+,66,Pentane,IschemicHeartDisease,
+,67,Pentane,IschemicHeartDisease,
+,68,Pentane,IschemicHeartDisease,
+,69,Pentane,IschemicHeartDisease,
+,70,Pentane,IschemicHeartDisease,
+,71,Pentane,IschemicHeartDisease,
+,72,Pentane,IschemicHeartDisease,
+,73,Pentane,IschemicHeartDisease,
+,74,Pentane,IschemicHeartDisease,
+,75,Pentane,IschemicHeartDisease,
+,76,Pentane,IschemicHeartDisease,
+,77,Pentane,IschemicHeartDisease,
+,78,Pentane,IschemicHeartDisease,
+,79,Pentane,IschemicHeartDisease,
+,80,Pentane,IschemicHeartDisease,
+,81,Pentane,IschemicHeartDisease,
+,82,Pentane,IschemicHeartDisease,
+,83,Pentane,IschemicHeartDisease,
+,84,Pentane,IschemicHeartDisease,
+,85,Pentane,IschemicHeartDisease,
+,86,Pentane,IschemicHeartDisease,
+,87,Pentane,IschemicHeartDisease,
+,88,Pentane,IschemicHeartDisease,
+,89,Pentane,IschemicHeartDisease,
+,90,Pentane,IschemicHeartDisease,
+,91,Pentane,IschemicHeartDisease,
+,92,Pentane,IschemicHeartDisease,
+,93,Pentane,IschemicHeartDisease,
+,94,Pentane,IschemicHeartDisease,
+,95,Pentane,IschemicHeartDisease,
+,96,Pentane,IschemicHeartDisease,
+,97,Pentane,IschemicHeartDisease,
+,98,Pentane,IschemicHeartDisease,
+,99,Pentane,IschemicHeartDisease,
+,100,Pentane,IschemicHeartDisease,
+,101,Pentane,IschemicHeartDisease,
+,102,Pentane,IschemicHeartDisease,
+,103,Pentane,IschemicHeartDisease,
+,104,Pentane,IschemicHeartDisease,
+,105,Pentane,IschemicHeartDisease,

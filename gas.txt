@@ -1,0 +1,10 @@
+Carbonmonoxide
+Ammonia
+Acetone	
+Isoprene	
+HydrogenSulphide	
+Nitricoxide	
+Ethane	
+Pentane	
+Methane	
+Hydrogen
